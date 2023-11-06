@@ -18,7 +18,7 @@ public class Cat {
         this.name=name;
         this.color=color;
         this.age=age;
-        this.energyLevel=3;
+        this.energyLevel=2;
         this.hungerLevel=3;
         this.moodLevel=3;
     }
